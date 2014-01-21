@@ -1,0 +1,13 @@
+12 Sanjana Singh 123 CS H 2500
+13 Apporva Khera 234 CS D 2498
+14 Sparsh Arora 222 CS D 2467
+18 Paran Jain 112 ECE H 2433
+19 Kartik Koduru 110 ECE D 2365
+20 Prachi Badera 109 ECE D 2355
+21 Adhish Agarwal 108 ECE H 2333
+22 Vidushi Bindal 121 ECE H 2329
+23 Monisha Malik 120 IT D 2322
+24 Nitesh Singh 122 IT H 2312
+25 Parveen Arora 118 IT D 2300
+26 Sagar Ghai 106 IT D 2299
+27 Yogesh  Tewari 104 IT D 2278

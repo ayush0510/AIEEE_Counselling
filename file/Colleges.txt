@@ -1,0 +1,40 @@
+IIIT(Allahabad) ECE
+IIIT(Allahabad) IT
+IIIT(Hyderabad) CS
+IIIT(Hyderabad) ECE
+JIIT(Noida) CS
+JIIT(Noida) ECE
+JIIT(Noida) IT
+NIT(Allahabad) CS
+NIT(Allahabad) ECE
+NIT(Allahabad) EEE
+NIT(Allahabad) IT
+NIT(Jamshedpur) CS
+NIT(Jamshedpur) ME
+NIT(Kurukshetra) CS
+NIT(Kurukshetra) Civil
+NIT(Kurukshetra) ECE
+NIT(Kurukshetra) EEE
+NIT(Kurukshetra) IT
+NIT(Nagpur) CS
+NIT(Nagpur) Chemical
+NIT(Nagpur) ECE
+NIT(Rourkela) CS
+NIT(Rourkela) ECE
+NIT(Surat) CS
+NIT(Surat) ECE
+NIT(Surathkal) CS
+NIT(Surathkal) Chemical
+NIT(Surathkal) ECE
+NIT(Surathkal) ME
+NIT(Warangal) CS
+NIT(Warangal) ECE
+NIT(Warangal) EEE
+NIT(Warangal) ME
+Thappar CS
+Thappar ECE
+
+
+
+
+
